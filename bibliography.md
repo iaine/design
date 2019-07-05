@@ -6,6 +6,7 @@ Forum One, https://forumone.com/ideas/what-is-design-system, last accessed 25 Ja
 AirBnB, https://airbnb.design/building-a-visual-language/, last accessed 25 January 2019
 AirBnB, https://airbnb.design/the-way-we-build/, last accessed 25 January 2019
 
+https://www.toptal.com/designers/ui/ui-styleguide-better-ux
 
 ## Sound / audio design language
 
