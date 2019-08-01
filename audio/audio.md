@@ -38,4 +38,4 @@ trying to design sounds for themselves.
 </select> 
 `
 
-
+The default of this component is the sine wave. 
