@@ -30,8 +30,7 @@ The Web Audio oscillator allows for a change in the type
 of wave form used. We can offer this to the listener whilst
 trying to design sounds for themselves. 
 
-`
- <select>
+` <select>
   <option value="sine">Sine</option>
   <option value="square">Square</option>
   <option value="sawtooth">Sawtooth</option>
