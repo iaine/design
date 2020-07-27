@@ -10,4 +10,8 @@ The second pattern is the connection and redirection protocols to understadn how
 
 ### Languages
 
-Hashtags can be used as the bordwer between mahcine and human languages and potentially networks. 
+Hashtags can be used as the bordwer between mahcine and human languages and potentially networks.
+
+### Devices
+
+The device used to writ e the data is removed from the network. This focuses the act of writing onto the database and the database narrative. The device is likely to be created by another corporation, leading to epistemological questions about the device.   
