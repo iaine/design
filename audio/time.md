@@ -50,4 +50,15 @@ The time may be shifted and made polyrhythmic to represent the various perspecti
 ## Space/Time
 
 One of the parts of the development of networks is the collapse of space into time. The type of medium also affects the time - for example a letter might take 4 days where a telegram takes 4 minutes. 
- 
+
+## Publication
+
+We might consider the mention of publications within a text. 
+
+Some of these might be the before the time. We could set up the initial publication time as a 0 context and calculate from that.
+
+The mention might be a reverse pointer. 
+
+We might also order the data around these publications to understand the rhizomatic relationships around the lnks. This takes it out of time and places it into an interpretative selection.
+
+We might alos think of publication in the digital with the notion of the digital publication time but also the heard time, which might be different. Argualbly the publication time precedes the database time.   
