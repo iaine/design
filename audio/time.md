@@ -47,3 +47,7 @@ Together, these two control the sonification's timings.
 
 The time may be shifted and made polyrhythmic to represent the various perspectives.  
 
+## Space/Time
+
+One of the parts of the development of networks is the collapse of space into time. The type of medium also affects the time - for example a letter might take 4 days where a telegram takes 4 minutes. 
+ 
