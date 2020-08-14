@@ -41,3 +41,6 @@ The consensus takes the frequency and start time. If using a machine, pitch can 
 The dissensus is the consensus frequency using detune. 
 The question may either add noise or the frequency as a base for the arpeggio. 
 The reference would add in harminic depth. 
+
+It can be layered by using a search box to identify the events that match. 
+The layer would echo the above but it would be at a different pitch also creating a separate rhythm. The background layer would be quieter or the base frequency could be a relation to the other frequency.
