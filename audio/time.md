@@ -10,7 +10,7 @@ One pattern is indexed time: the order set by the algorithm.
 
 ### Logical
 
-This time comes from the various time ontologies designed to support the calcualtions of time. 
+This time comes from the various time ontologies designed to support the calculations of time. 
 
 ### Human
 
@@ -29,7 +29,7 @@ In the second, the second point of the reply pulls across the first point by 'gr
 
 In the final one, the reply is viewed as a fold in time, such as a joint rememberance of an event. The two points are sonifed at the same time but there is a fold sound that suggests the collaps ein time. It would be use with phrases such as "I remember". It might be considered the 'madeleine'. 
 
-These pattersn can be used with other layers such as uncertainty or precision for the semantic meaning. These patterns move away from the grammar of action of the reply to consider its actions in time. 
+These patterns can be used with other layers such as uncertainty or precision for the semantic meaning. These patterns move away from the grammar of action of the reply to consider its actions in time. 
 
 Time here is not the main entity but it is a central part of the experience. 
 
