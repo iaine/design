@@ -14,7 +14,9 @@ The follow up question is what is a template? Is it the component drawn from the
 
 This is experimental and iterative. The language is not just the end product but the language used to design the language. 
 
-The language (in what form) is not to be a palliative affair. It should not elide over difficult subjects. It provokes challenges to conceptions of interfaces. 
+Work against the seamless interface (Coyne, 2011).
+
+Explain the traces that might exist. We might use reflection on the form / patterns to suggest new forms. Reflection and metaprogramming are also used as a tactic. 
 
 The language is theoretical and philosophical. It is a tool/technique that is a practical (to some degree) experiment in concepts taken from sonification, media theory, post-structuralism and critical theory. 
 
