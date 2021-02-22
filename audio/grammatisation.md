@@ -8,10 +8,16 @@ The first pattern is the url itself, moving from the shortened to the real URL t
 
 The second pattern is the connection and redirection protocols to understadn how the concept of the network is described. It is described as the single network but ignores its translation. This internal translation can be used to collapse time and space.
 
+### Discretisation
+
+A core part of grammatisation is the discretisation of data. 
+
+[Discretisation](index.html#discretisation)
+
 ### Languages
 
 Hashtags can be used as the bordwer between mahcine and human languages and potentially networks.
 
 ### Devices
 
-The device used to writ e the data is removed from the network. This focuses the act of writing onto the database and the database narrative. The device is likely to be created by another corporation, leading to epistemological questions about the device.   
+The device used to write the data is removed from the network. This focuses the act of writing onto the database and the database narrative. The device is likely to be created by another corporation, leading to epistemological questions about the device.   
