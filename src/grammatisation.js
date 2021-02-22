@@ -1,4 +1,4 @@
-grammatisation = () => {
+discretisation = () => {
     let audioCtx = (window.AudioContext || window.webkitCancelAnimationFrame.AudioContext)()
 
     let osc = audioCtx.createOscillator();
