@@ -13,7 +13,7 @@ lists = () => {
 
     osc.stop(1.5);
 
-    osc
+    osc.connect(audioCtx.destination);
 }
 
 matrix = () => {
