@@ -14,3 +14,7 @@ The small packet is a response but the larger packet contains data. This may be 
 The larger package might be mapped to volume to suggest this change in the state from the small packet. 
 
 The duration of the beats is device and connection dependant in the observed data, as is the break between packets.
+
+### Source
+
+Influenced by Shintaro Miyazaki's algorythmics.
