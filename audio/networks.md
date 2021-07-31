@@ -15,6 +15,22 @@ The larger package might be mapped to volume to suggest this change in the state
 
 The duration of the beats is device and connection dependant in the observed data, as is the break between packets.
 
+### Internet of Things
+
+Networks created by Internet of Things (IoT) devices may have different network patterns. 
+
+Devices, when scanned, offer a response to the call. We might think of this as "call and response" with some sort of response. 
+
+Some return data for purposes such as pairing with a phone or similar device. This can be sonified as a two part beat:
+
+call -> response
+
+The response may be a simple tone or it can be a tone that reflects the company or type of device, depending on the reading. 
+
+Some devices have an address but refuse to give any information away for pairing or other purposes. 
+
+We can sonify these with one sound to denote the call but silence from the device. 
+
 ### Source
 
 Influenced by Shintaro Miyazaki's algorythmics.
