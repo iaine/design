@@ -10,6 +10,8 @@ The sounds focus on the edges, or the links.
 
 The detuned edge applies the modularity to the sound. It might be used on its own or with the unaffected edge sound. 
 
+This allows the designer to apply a frequency or sound to the community and the subsequent calculation. 
+
 Edge = (Frequency -> Community)
 
 Existing = Edge * modularity_score
@@ -29,3 +31,13 @@ start > 0 && start >= current time
 
 delayed_start > 0 && delayed_start >= current time
 
+## Edges
+
+The duration can be affected by the weight within the graph to use the note length to suggest the changes. 
+
+This can also be applied to the volume to use that aspect. 
+
+duration = current * weight
+
+or 
+duration = weight
