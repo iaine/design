@@ -30,6 +30,9 @@ The response may be a simple tone or it can be a tone that reflects the company 
 Some devices have an address but refuse to give any information away for pairing or other purposes. 
 
 We can sonify these with one sound to denote the call but silence from the device. 
+### Source
+
+Influenced by Shintaro Miyazaki's algorythmics.
 
 ### Devices
 
@@ -46,4 +49,4 @@ source -> device -> organisation or type
 
 ### Source
 
-Influenced by Shintaro Miyazaki's algorythmics.
+Influenced by Friedrich Kittler's Discourse Networks and questions raised in Alan Liu's Friending the Past
