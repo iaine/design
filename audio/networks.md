@@ -31,6 +31,19 @@ Some devices have an address but refuse to give any information away for pairing
 
 We can sonify these with one sound to denote the call but silence from the device. 
 
+### Devices
+
+Networks can be sonified to understand the devices that bring them into being. The devices can be used for either medium or social questions.
+
+This section can be be used to allow sonification using the network type from above. 
+
+source -> device
+
+or 
+
+source -> device -> organisation or type
+
+
 ### Source
 
 Influenced by Shintaro Miyazaki's algorythmics.
