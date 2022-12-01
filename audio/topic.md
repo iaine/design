@@ -8,9 +8,9 @@ The sound is related to the percentage and could be linked to the model.
 
 |**Verb** |**Frequency** | **Sample** |
 | ------- | ------------ | ---------- |
-| Frequency | Set in Hertz or MIDI | |
-| Volume | Default 0.5. Multiplied against probability |
-| Duration | Set by the temporal needs. |
-| Sample Rate || Default 1.0 Change based on probabilty|
+| Frequency | Set in Hertz or MIDI |  |
+| Volume | Default 0.5. Multiplied against probability | Default 0.5. Multiplied against probability   |
+| Duration | Set by the temporal needs. | Set by the temporal needs. |
+| Sample Rate |  | Default 1.0 Change based on probability|
 
 A subset of this can be used to create a sonification of the percentages. A richer model using this can be developed, either using multiple tones or samples.
